@@ -3,7 +3,7 @@ name: Build and Deploy to Azure
 on:
   push:
     branches:
-      - main  # Change this to your branch name if different
+      - master  # Change this to your branch name if different
 
 jobs:
   build_and_deploy:
