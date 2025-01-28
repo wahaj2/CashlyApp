@@ -17,7 +17,6 @@ convert-html-to-dash==0.1.2
 cssselect==1.2.0
 cvxpy==1.4.2
 cytoolz==0.11.0
-daal4py==2021.6.0
 dash==2.14.2
 dash-bootstrap-components==1.5.0
 dash-core-components==2.0.0
